@@ -1,2 +1,2 @@
 INSERT INTO Bruker (brukernavn, passord)
-VALUES ('admin', 'admin');
+VALUES ('Adminluna', 'Adminluna1');
